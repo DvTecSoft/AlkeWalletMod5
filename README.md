@@ -3,7 +3,12 @@
 <h4 align="center"> by DvTec.cl </h4>
 <p align="center"> <img src="https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green"> </p>
 <p align="center"> Entrega de evaluación integradora de una app realizada en Kotlin para la transferencia de dinero. <br>
-<b>Fecha de entrega: 22/05/2024</b>
-Se crea en arquitectura MVVM
-Se utilizan componentes como: databinding, sharedpreferences, reciclerview, entre otros
+<b>Fecha de entrega: 22/05/2024</b><br> 
+<b>Se utiliza: </b><br> 
+  - Patrón de arquitectura MVVM<br>
+  - Patrón Observador<br>
+  - Databinding<br>
+  - Saredpreferences<br>
+  - Reciclerview<br>
+  - Entre otros <br>
 </p>
