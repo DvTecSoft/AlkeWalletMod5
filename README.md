@@ -11,4 +11,13 @@
   Saredpreferences<br>
   Reciclerview<br>
   Entre otros <br>
+  <br>
+  Puedes usar los datos de prueba: <br>
+  daniel@dvtec.cl<br>
+  josue@dvtec.cl<br>
+  barbara@dvtec.cl<br>
+  johanna@dvtec.cl<br>
+  jack@dvtec.cl<br>
+  Clave: 123<br>
+  O crear un usuario e ingresar altiro con esos datos. Ingresarás a la app.<br>
 </p>
